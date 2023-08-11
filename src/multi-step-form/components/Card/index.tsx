@@ -1,17 +1,7 @@
-interface Props {
-  children: any
-  bg?: string
-  px?: string
-}
+import { styled } from "styled-components"
 
-const Card = ({ children, bg, px }: Props) => {
-  return (
-    <div>
-      <br />
-      <br />
-      {children}
-    </div>
-  )
-}
+const Card = styled.div`
+  color: red;
+`
 
 export default Card
