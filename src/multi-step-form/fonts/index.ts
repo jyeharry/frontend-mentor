@@ -17,6 +17,5 @@ export const ubuntu = localFont({
       weight: '400',
       style: 'normal',
     },
-  ]
+  ],
 })
-

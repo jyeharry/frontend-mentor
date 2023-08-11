@@ -1,7 +1,7 @@
 interface Props {
-  children: any;
-  bg?: string;
-  px?: string;
+  children: any
+  bg?: string
+  px?: string
 }
 
 const Card = ({ children, bg, px }: Props) => {
@@ -11,7 +11,7 @@ const Card = ({ children, bg, px }: Props) => {
       <br />
       {children}
     </div>
-  );
-};
+  )
+}
 
-export default Card;
+export default Card

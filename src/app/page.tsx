@@ -7,7 +7,7 @@ export default function Home() {
       <nav>
         <ul>
           <li>
-            <Link href='/multi-step-form'>multi-step-form</Link>
+            <Link href="/multi-step-form">multi-step-form</Link>
           </li>
         </ul>
       </nav>
