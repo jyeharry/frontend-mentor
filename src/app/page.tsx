@@ -9,6 +9,9 @@ export default function Home() {
           <li>
             <Link href="/multi-step-form">multi-step-form</Link>
           </li>
+          <li>
+            <Link href="/space-tourism-website">space-tourism-website</Link>
+          </li>
         </ul>
       </nav>
     </main>
